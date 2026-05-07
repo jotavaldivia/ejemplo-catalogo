@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "category": "Repuestos",
+      "name": "Filtro de aceite universal",
+      "description": "Filtro de aceite compatible con múltiples modelos",
+      "variants": [
+        {
+          "name": "Estándar",
+          "price": 4500,
+          "stock": 20,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Repuestos",
+      "name": "Pastillas de freno delanteras",
+      "description": "Alta durabilidad y frenado seguro",
+      "variants": [
+        {
+          "name": "Toyota",
+          "price": 18990,
+          "stock": 8,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        },
+        {
+          "name": "Nissan",
+          "price": 19990,
+          "stock": 5,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Repuestos",
+      "name": "Bujías de encendido",
+      "description": "Mejora el rendimiento del motor",
+      "variants": [
+        {
+          "name": "Iridium",
+          "price": 12990,
+          "stock": 15,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Repuestos",
+      "name": "Amortiguador delantero",
+      "description": "Conducción suave y estable",
+      "variants": [
+        {
+          "name": "Delantero izquierdo",
+          "price": 34990,
+          "stock": 6,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        },
+        {
+          "name": "Delantero derecho",
+          "price": 34990,
+          "stock": 6,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Repuestos",
+      "name": "Filtro de aire motor",
+      "description": "Protección y mejor combustión",
+      "variants": [
+        {
+          "name": "Universal",
+          "price": 7900,
+          "stock": 25,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Repuestos",
+      "name": "Batería automotriz",
+      "description": "Arranque potente y duradero",
+      "variants": [
+        {
+          "name": "45Ah",
+          "price": 59990,
+          "stock": 4,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        },
+        {
+          "name": "60Ah",
+          "price": 69990,
+          "stock": 3,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Repuestos",
+      "name": "Kit de embrague",
+      "description": "Transmisión suave y eficiente",
+      "variants": [
+        {
+          "name": "Toyota Corolla",
+          "price": 89990,
+          "stock": 2,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Repuestos",
+      "name": "Radiador de motor",
+      "description": "Sistema de enfriamiento eficiente",
+      "variants": [
+        {
+          "name": "Aluminio",
+          "price": 74990,
+          "stock": 3,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Repuestos",
+      "name": "Espejo lateral",
+      "description": "Visión clara y segura",
+      "variants": [
+        {
+          "name": "Izquierdo",
+          "price": 15990,
+          "stock": 10,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        },
+        {
+          "name": "Derecho",
+          "price": 15990,
+          "stock": 10,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Repuestos",
+      "name": "Kit de distribución",
+      "description": "Incluye correa y tensores",
+      "variants": [
+        {
+          "name": "Motor 1.6",
+          "price": 54990,
+          "stock": 5,
+          "image": "https://img.magnific.com/psd-gratis/coche-aislado-negro_23-2151852894.jpg?semt=ais_hybrid&w=740&q=80"
+        }
+      ]
+    }
+  ]

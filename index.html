@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Catálogo Productos</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<body>
+
+<header>
+    <img id="storeLogo" alt="logo" class="logo">
+    
+  <div id="cartIcon" onclick="toggleCart()">
+    🛍️ <span id="cartCount">0</span>
+  </div>
+</header>
+
+<section class="search">
+  <input
+    type="text"
+    id="searchInput"
+    placeholder="Buscar productos..."
+    oninput="renderProducts()"
+  />
+</section>
+
+<main id="catalog"></main>
+
+<!-- CARRITO -->
+<aside id="cart" class="hidden">
+
+  <div class="cart-header">
+    <h2>Carrito</h2>
+    <button class="close-btn" onclick="toggleCart()">✖</button>
+  </div>
+
+  <ul id="cartItems"></ul>
+
+  <p id="total"></p>
+
+  <button class="whatsapp-btn" onclick="sendWhatsApp()">
+    Enviar WhatsApp
+  </button>
+
+</aside>
+
+<script src="config.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
